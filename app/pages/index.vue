@@ -10,7 +10,7 @@
       </p>
 
       <a
-        href="https://你的另一个网站.com"
+        href="https://atsea.top"
         class="mt-6 inline-block"
       >
         进入主页
